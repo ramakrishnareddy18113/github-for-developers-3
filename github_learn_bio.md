@@ -5,3 +5,4 @@ __Hobby__:_Surfing_
 __Favorite Color__:_Blue_
 
 __Holiday Spot__:_Ooty_
+__interests__:_watching movie_
